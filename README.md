@@ -14,13 +14,13 @@
 
 
 ## :thinking: Ask me about
-- My Homelab
+- My Homelab :computer:
 - Sideprojects
 - Docker
 - Home networking
 
 ## :rainbow: Hobies
-- Surfing!
+- Surfing! :surfer:
 - Camping & Backpacking
 - Reading
 - Snowboarding
@@ -29,7 +29,7 @@
 
 ## :apple: Learning
 - Infrastrcuture as Code (Ansible)
-- Cloud Technologies (AWS)
+- Cloud Technologies (AWS) :cloud:
 - Thoroughly testing code
 - Networking (VLANs, Firewalls, ect.)
 
@@ -57,6 +57,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 ## :chart_with_upwards_trend: Stats
