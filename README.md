@@ -16,7 +16,6 @@
 ## :thinking: Ask me about
 - My Homelab :computer:
 - Sideprojects
-- Docker
 - Home networking
 
 ## :rainbow: Hobies
@@ -25,12 +24,12 @@
 - Reading
 - Snowboarding
 - Basketball 
-- Tinkering with computers
+- Computers
 
 ## :apple: Learning
 - Infrastrcuture as Code (Ansible)
 - Cloud Technologies (AWS) :cloud:
-- Thoroughly testing code
+- Automated Testing
 - Networking (VLANs, Firewalls, ect.)
 
 ## Technologies
@@ -58,12 +57,15 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## :chart_with_upwards_trend: Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansurf&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansurf&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ryansurf)](https://github.com/madushadhanushka/github-readme)
+[![Ryan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ryansurf)](https://github.com/madushadhanushka/github-readme)
 
