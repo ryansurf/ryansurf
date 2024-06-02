@@ -12,10 +12,12 @@
 </a>
 </div>
 
+```diff
+- OS: Linux, MacOS, Win 10
+@@ text in purple (and bold)@@
 ```
-$${\color{OS}Red}$$: Linux, MacOS, Win 10
 
-```
+@@ text in purple (and bold)@@
 
 
 ## :thinking: Ask me about
