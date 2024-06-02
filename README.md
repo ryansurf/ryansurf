@@ -2,25 +2,14 @@
 <h3 align="center">A software engineer from California</h3>
 
 
-<style>
-    .social-links a {
-        margin: 30px;
-    }
-    #linkedin {
-        fill: #0077B5; /* LinkedIn Blue */
-    }
-</style>
+<div align="center">
+<a href="http://www.linkedin.com/in/ryanfreder">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
-<div class="social-links" align="center">
-    <a href="http://www.linkedin.com/in/ryanfreder">
-        <img id="linkedin" height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/linkedin.svg" />
-    </a>
-    <a href="http://www.github.com/ryansurf">
-        <img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/github.svg" />
-    </a>
-    <a href="https://ryansurf.github.io/">
-        <img height="32" width="32" src="https://www.svgrepo.com/show/512733/profile-round-1346.svg" />
-    </a>
+<a href="http://www.github.com/ryansurf">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </div>
 
 
