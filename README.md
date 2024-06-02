@@ -12,32 +12,10 @@
 </a>
 </div>
 
-```diff
-- OS: Linux, MacOS, Win 10
-@@ text in purple (and bold)@@
-```
+<div align="center">
+  <img src="https://github.com/ryansurf/ryansurf/blob/main/about.png?raw=true">
+</div>
 
-@@ text in purple (and bold)@@
-
-
-## :thinking: Ask me about
-- My Homelab :computer:
-- Sideprojects
-- Home networking
-
-## :rainbow: Hobies
-- Surfing! :surfer:
-- Camping & Backpacking
-- Reading
-- Snowboarding
-- Basketball 
-- Computers
-
-## :apple: Learning
-- Infrastrcuture as Code (Ansible)
-- Cloud Technologies (AWS) :cloud:
-- Automated Testing
-- Networking (VLANs, Firewalls, ect.)
 
 ## Technologies
 
