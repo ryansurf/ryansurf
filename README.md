@@ -12,6 +12,11 @@
 </a>
 </div>
 
+```
+$${\color{OS}Red}$$: Linux, MacOS, Win 10
+
+```
+
 
 ## :thinking: Ask me about
 - My Homelab :computer:
