@@ -11,6 +11,44 @@
 </div>
 
 <!-- Make with https://carbon.now.sh/ -->
+<!-- 
+about:
+  name: Ryan Frederich
+  occupation: Software Developer
+  education: University of California, Santa Cruz
+  major: Technology and Information Management
+  minor: Computer Science
+  hobbies:
+    - Surfing
+    - Camping
+    - Backpacking
+    - Reading
+    - Snowboarding
+    - Basketball 
+skills:
+  languages:
+    - Python
+    - C++
+    - JavaScript
+    - SQL
+    - Bash
+    - HTML
+    - CSS   
+  os:
+    - Linux
+    - MacOS
+    - Windows 10
+interests:
+  - Homelabbing
+  - Infrastructure as Code (IaC)
+  - Docker
+  - Open Source
+learning:
+  - Infrastructure as Code (Ansible)
+  - Cloud Technologies (AWS)
+  - Automated Testing
+  - Networking (VLANs, Firewalls, etc.) -->
+
 <div align="center">
   <img src="https://github.com/ryansurf/ryansurf/blob/main/about.png?raw=true">
 </div>
