@@ -57,7 +57,3 @@ learning:
 ## :chart_with_upwards_trend: Stats
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansurf&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Ryan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ryansurf)](https://github.com/madushadhanushka/github-readme)
-
